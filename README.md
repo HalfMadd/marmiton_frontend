@@ -6,3 +6,4 @@ Grande déceptions :
 -Récupération des données et affichage difficile
 
 npm run start directement dans le dossier
+kkk
